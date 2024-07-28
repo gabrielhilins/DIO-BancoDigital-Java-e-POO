@@ -12,12 +12,12 @@ Extrato: Impressão de extratos detalhados das operações realizadas.
 
 O projeto é composto pelas seguintes classes principais:
 
-- Cliente: Representa os clientes do banco com informações pessoais.
-- Conta: Classe abstrata que define operações comuns para contas bancárias.
-- ContaCorrente: Especialização da classe Conta.
-- ContaPoupanca: Outra especialização da classe Conta.
-- Banco: Gerencia a lista de contas e operações relacionadas.
-- Main: Classe principal com a interface de usuário para interação.
+- [Cliente](https://github.com/gabrielhilins/DIO-BancoDigital-Java-e-POO/blob/main/src/main/java/org/example/Cliente.java): Representa os clientes do banco com informações pessoais.
+- [Conta](https://github.com/gabrielhilins/DIO-BancoDigital-Java-e-POO/blob/main/src/main/java/org/example/Conta.java): Classe abstrata que define operações comuns para contas bancárias.
+- [ContaCorrente](https://github.com/gabrielhilins/DIO-BancoDigital-Java-e-POO/blob/main/src/main/java/org/example/ContaCorrente.java): Especialização da classe Conta.
+- [ContaPoupanca](https://github.com/gabrielhilins/DIO-BancoDigital-Java-e-POO/blob/main/src/main/java/org/example/ContaPoupanca.java): Outra especialização da classe Conta.
+- [Banco](https://github.com/gabrielhilins/DIO-BancoDigital-Java-e-POO/blob/main/src/main/java/org/example/Banco.java): Gerencia a lista de contas e operações relacionadas.
+- [Main](https://github.com/gabrielhilins/DIO-BancoDigital-Java-e-POO/blob/main/src/main/java/org/example/Main.java): Classe principal com a interface de usuário para interação.
 
 ## Tecnologias e Conhecimentos Utilizados
 - Princípios de Programação Orientada a Objetos (POO): Abstração, encapsulamento, herança e polimorfismo foram aplicados no design do sistema.
